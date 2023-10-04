@@ -23,6 +23,7 @@
 10. <strong>Dad Jokes</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/dad_jokes/index.html
 11. <strong>Event KeyCodes</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/event_keyCodes/index.html
 12. <strong>FAQ Collapse</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/faq_collapse/index.html
-13. <strong>Random Choise Picker</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/random_choice_picker/index.html
+13. <strong>Random Choice Picker</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/random_choice_picker/index.html
+14.
 
 ---
