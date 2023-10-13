@@ -24,6 +24,6 @@
 11. <strong>Event KeyCodes</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/event_keyCodes/index.html
 12. <strong>FAQ Collapse</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/faq_collapse/index.html
 13. <strong>Random Choice Picker</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/random_choice_picker/index.html
-14.
+14. <strong>Animated Navigation</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/animated_navigation/index.html
 
 ---
