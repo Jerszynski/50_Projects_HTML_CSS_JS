@@ -33,7 +33,8 @@ body {
   transition: width 0.6s linear;
 }
 
-.nav.active {
+/* .nav */
+.active {
   width: 350px;
 }
 
@@ -46,7 +47,7 @@ body {
   transition: width 0.6s linear;
 }
 
-.nav__list {
+.active .nav__list {
   width: 100%;
 }
 
@@ -56,7 +57,7 @@ body {
   transition: transform 0.6s linear, opacity 0.6s linear;
 }
 
-.nav__list-item {
+.active .nav__list-item {
   opacity: 1;
   transform: rotateY(360deg);
 }
@@ -97,10 +98,10 @@ body {
   bottom: 10px;
 }
 
-.line1 {
+.active .line1 {
   transform: rotate(-765deg) translateY(5.5px);
 }
 
-.line2 {
+.active .line2 {
   transform: rotate(765deg) translateY(-5.5px);
 }
