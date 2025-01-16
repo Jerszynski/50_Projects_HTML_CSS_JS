@@ -25,5 +25,6 @@
 12. <strong>FAQ Collapse</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/faq_collapse/index.html
 13. <strong>Random Choice Picker</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/random_choice_picker/index.html
 14. <strong>Animated Navigation</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/animated_navigation/index.html
+15. <strong>Icrementing Counter</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/incrementing_counter/index.html
 
 ---
