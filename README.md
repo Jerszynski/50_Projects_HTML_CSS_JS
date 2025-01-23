@@ -28,7 +28,7 @@
 15. <strong>Icrementing Counter</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/incrementing_counter/index.html
 16. <strong>Drink Water</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/drink_water/index.html
 17. <strong>Movie App</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/movie_app/index.html
-18. <strong>Movie App</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/background_slider/index.html
-19. <strong>Movie App</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/theme_clock/index.html
+18. <strong>Background Slider</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/background_slider/index.html
+19. <strong>Theme Clock</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/theme_clock/index.html
 
 ---
