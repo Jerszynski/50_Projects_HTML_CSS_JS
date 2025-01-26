@@ -30,5 +30,6 @@
 17. <strong>Movie App</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/movie_app/index.html
 18. <strong>Background Slider</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/background_slider/index.html
 19. <strong>Theme Clock</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/theme_clock/index.html
+20. <strong>Button Ripple Effect</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/button_ripple_effect/index.html
 
 ---
