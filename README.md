@@ -32,5 +32,6 @@
 19. <strong>Theme Clock</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/theme_clock/index.html
 20. <strong>Button Ripple Effect</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/button_ripple_effect/index.html
 21. <strong>Drag and Drop</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/drag_and_drop/index.html
+22. <strong>Drawing App</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/drawing_app/index.html
 
 ---
