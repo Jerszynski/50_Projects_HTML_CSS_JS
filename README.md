@@ -33,5 +33,6 @@
 20. <strong>Button Ripple Effect</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/button_ripple_effect/index.html
 21. <strong>Drag and Drop</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/drag_and_drop/index.html
 22. <strong>Drawing App</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/drawing_app/index.html
+23. <strong>Kinetic CSS Loader</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/kinetic_css_loader/index.html
 
 ---
