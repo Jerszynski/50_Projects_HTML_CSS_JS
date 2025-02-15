@@ -36,5 +36,6 @@
 23. <strong>Kinetic CSS Loader</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/kinetic_css_loader/index.html
 24. <strong>Content Placeholder</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/content_placeholder/index.html
 25. <strong>Sticky Nav Bar</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/sticky_navbar/index.html
+26. <strong>Double Vertical Slider</strong> <br> https://jerszynski.github.io/50_Projects_HTML_CSS_JS/double_vertical_slider/index.html
 
 ---
