@@ -46,8 +46,19 @@ body {
 
 .toast {
   background-color: #FFF;
-  color: rebeccapurple;
   border-radius: 5px;
   padding: 15px 30px;
   margin: 8px;
+}
+
+.toast.info {
+  color: rebeccapurple;
+}
+
+.toast.success {
+  color: green;
+}
+
+.toast.error {
+  color: red;
 }
